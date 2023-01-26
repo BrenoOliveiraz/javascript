@@ -20,7 +20,7 @@ function verificar() {
                 
             } else if (idade < 21) {
                 // jovem
-                img.src="imgs ex 002/homemjovem.jpg"
+                img.src="imgs ex 002/homemadolescente2.jpg"
                 
             } else if (idade < 50){
                 // adulto
