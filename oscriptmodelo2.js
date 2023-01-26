@@ -24,7 +24,7 @@ function verificar() {
                 
             } else if (idade < 50){
                 // adulto
-                img.src="imgs ex 002/homemadulto.jpg"
+                img.src="imgs ex 002/homemjovem.jpg"
 
             } else {
                 // idoso
